@@ -151,10 +151,6 @@ ecommerce-data-cleaning-reporting/
 
 ---
 
-## Author
-
-Kanisha Sivakumar
-
 ## Project Type
 
 Data Cleaning & Reporting Automation using Python and Power BI
